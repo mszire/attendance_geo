@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18694291179",
+    "firebase_url": "https://pashu-291710.firebaseio.com",
+    "project_id": "pashu-291710",
+    "storage_bucket": "pashu-291710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18694291179:android:9fce1e1a9d08321e5548ae",
+        "android_client_info": {
+          "package_name": "example.com.geo_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18694291179-3gijnn0nu9mcvfal2g5tb9as32ps7e7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjmgw4ikv7TO33BXrdiObNIuqL872luW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18694291179-3gijnn0nu9mcvfal2g5tb9as32ps7e7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
